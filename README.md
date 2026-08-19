@@ -26,6 +26,8 @@ NetGuard actively monitors network traffic for **ARP spoofing** and **DNS spoofi
 | Dashboard         | Flask              |
 | Logging           | CSV                |
 | Platform          | Kali Linux         |
+<img width="541" height="383" alt="image" src="https://github.com/user-attachments/assets/5e011d4f-391c-4fed-aca5-7580fd2fe1d5" />
+
 
 ## How It Works
 
@@ -74,6 +76,8 @@ python3 dashboard.py
 In your browser, go to:
 
 http://127.0.0.1:5000
+<img width="916" height="408" alt="image" src="https://github.com/user-attachments/assets/e85bb6a5-e3ec-4f5f-ac31-b56b4273b55b" />
+
 
 
 ## Project Context
